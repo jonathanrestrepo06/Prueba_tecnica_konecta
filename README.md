@@ -42,7 +42,7 @@ Ventana 1: conexion.
                   
                   y finalmente cerrar para volver al menu.
                   =
-    -> boton ventas:
+    -> Boton ventas:
     
           despliega la ventana Ventas:
           
@@ -52,11 +52,11 @@ Ventana 1: conexion.
                     
                     Al dar cic en el boton generar, se edita la base de datos se registran las ventas en otra tabla de la base de datos y se muestra el total a pagar.
                     
-    ->boton Listar productos:
+    ->Boton Listar productos:
     
             Despliega la ventana lista con una tabla con los productos de la base de datos.
             
-    -> boton consultas:
+    -> Boton consultas:
     
             Genera una ventana emergente con los reultados de las consultas requeridos en la base de datos.
             
